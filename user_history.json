@@ -1,0 +1,220 @@
+[
+    {
+        "timestamp": "2026-02-09T12:25:27.850802",
+        "domains": {
+            "Biological": {
+                "name": "Biological",
+                "indicators": [
+                    {
+                        "name": "Sleep Quality",
+                        "value": 0.25,
+                        "description": "Lack of restful sleep",
+                        "domain": "Biological",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Sleep Variability",
+                        "value": 0.0,
+                        "description": "Inconsistent sleep timing",
+                        "domain": "Biological",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Fatigue",
+                        "value": 0.5,
+                        "description": "Physical exhaustion",
+                        "domain": "Biological",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Stress Load",
+                        "value": 0.25,
+                        "description": "General stress level",
+                        "domain": "Biological",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    }
+                ]
+            },
+            "Lifestyle": {
+                "name": "Lifestyle",
+                "indicators": [
+                    {
+                        "name": "Diet Irregularity",
+                        "value": 0.0,
+                        "description": "Inconsistent nutrition",
+                        "domain": "Lifestyle",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Dehydration",
+                        "value": 0.25,
+                        "description": "Poor hydration",
+                        "domain": "Lifestyle",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Sedentary Time",
+                        "value": 0.75,
+                        "description": "Lack of movement",
+                        "domain": "Lifestyle",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Screen Time",
+                        "value": 0.5,
+                        "description": "Digital consumption",
+                        "domain": "Lifestyle",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    }
+                ]
+            },
+            "Psychological": {
+                "name": "Psychological",
+                "indicators": [
+                    {
+                        "name": "Anxiety/Worry",
+                        "value": 0.5,
+                        "description": "Future-oriented anxiety",
+                        "domain": "Psychological",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Mood Instability",
+                        "value": 0.0,
+                        "description": "Emotional lability",
+                        "domain": "Psychological",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "User Notes",
+                        "value": -1,
+                        "description": "Open text",
+                        "domain": "Psychological",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": "nayan dasari and virsab maks"
+                    }
+                ]
+            },
+            "Coping Strategies": {
+                "name": "Coping Strategies",
+                "indicators": [
+                    {
+                        "name": "Avoidance Coping",
+                        "value": 0.25,
+                        "description": "Avoiding stressors",
+                        "domain": "Coping Strategies",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Problem Solving",
+                        "value": 0.0,
+                        "description": "Lack of active planning",
+                        "domain": "Coping Strategies",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    }
+                ]
+            },
+            "Social": {
+                "name": "Social",
+                "indicators": [
+                    {
+                        "name": "Isolation",
+                        "value": 0.0,
+                        "description": "Social disconnection",
+                        "domain": "Social",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    }
+                ]
+            },
+            "Environmental": {
+                "name": "Environmental",
+                "indicators": [
+                    {
+                        "name": "Environmental Noise",
+                        "value": 0.5,
+                        "description": "Chaotic environment",
+                        "domain": "Environmental",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Financial Pressure",
+                        "value": 0.0,
+                        "description": "Economic Strain",
+                        "domain": "Environmental",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    }
+                ]
+            },
+            "Work/Academic": {
+                "name": "Work/Academic",
+                "indicators": [
+                    {
+                        "name": "Workload Pressure",
+                        "value": 0.5,
+                        "description": "Performance pressure",
+                        "domain": "Work/Academic",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    }
+                ]
+            },
+            "Developmental": {
+                "name": "Developmental",
+                "indicators": [
+                    {
+                        "name": "Life Transition",
+                        "value": 0.0,
+                        "description": "Major life change load",
+                        "domain": "Developmental",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    },
+                    {
+                        "name": "Identity Stress",
+                        "value": 0.25,
+                        "description": "Identity formation stress",
+                        "domain": "Developmental",
+                        "variability": 0.0,
+                        "trend": "Stable",
+                        "text_value": ""
+                    }
+                ]
+            }
+        },
+        "identified_patterns": [],
+        "data_completeness": 0.0
+    }
+]
